@@ -12,7 +12,7 @@
   <br>
 </h2>
 
-###Author
+### Author
 Mathias Novianto
 
 ### Specifications
@@ -51,12 +51,12 @@ Preprocessing contohnya :
 - Author
 ```
 
-###How to use
+### How to use
 	1. Pastikan telah terinstall Python3 dan telah terdapat library BeautifulSoup dan urllib
 	2. Jalankan make run
 	3. Masukkan input tanggal dan tipe perjalanan (departure/arrival)
 
-###JSON Structure
+### JSON Structure
 Arrival :
 	- from	: tempat keberangkatan
 	- to	: tempat tujuan
@@ -74,11 +74,11 @@ Departure :
 	- gate	: gerbang keberangkatan
 	- checkin : loket check in
 	
-###Screenshot
+### Screenshot
 ![Gambar 1](screenshots/arrival.JPG)
 
 ![Gambar 2](screenshots/departure.JPG)
-###Reference
+### Reference
 - python urllib
 - python Beautifulsoup
 
