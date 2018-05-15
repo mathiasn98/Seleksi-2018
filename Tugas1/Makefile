@@ -2,7 +2,7 @@
 all: clean build run
 	
 clean:
-	rm /data/*
+	del .\\data\\*.json
 
 run:
 	python ./src/KLIA.py
